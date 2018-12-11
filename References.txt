@@ -1,0 +1,2 @@
+I have used code from this link : https://scikit-learn.org/stable/auto_examples/model_selection/plot_validation_curve.html#sphx-glr-auto-examples-model-selection-plot-validation-curve-py, to generate validation curves
+I have used code from this link : https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html, to generate Learning curves
